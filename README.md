@@ -33,5 +33,5 @@ _Страница "Симулятор варки"_
 
 **Ссылка на проект**
 
-* [Ссылка на проект](https://dimdimshishkov.github.io/dayNigth/)
+* [Ссылка на проект](https://dimdimshishkov.github.io/brewing_start/)
 
